@@ -1,0 +1,47 @@
+header {
+    float:left;
+    margin: 10px;
+}
+h1 {
+    background-color: #4aaaa5;
+    display: inline-block;
+    font-size: 25px;
+    padding: 30px;
+    margin: 0px;
+    color: #ffffff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+  }
+
+body {
+    background-image: url(.. images/dust_scratches.png);
+    margin-top: 50px;
+    width: 960px;
+    background: #ffffff;
+    border-color: red;
+    border-width: 10px;
+}
+ #buttons {
+     float:right;
+     color: #777777;
+     border: red;
+     border-width: 10px;
+     width: 350px;
+ } 
+
+ #button1 {
+     float: right;
+     width: 100px;
+ }
+
+ #button2 {
+     float:right;
+     width: 100px;
+ }
+
+ #button3 {
+    float: right;
+    width: 100px;
+ }
+
+ 
